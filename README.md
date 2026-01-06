@@ -115,5 +115,5 @@ The entire automation is orchestrated by **n8n**, which acts as the “glue” b
 
 ---
 
-## 📁 Repository Structure
+
 
